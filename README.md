@@ -1,42 +1,36 @@
-# Machine Learning Projects Portfolio
+AI & ML Projects Repository
 
-A collection of real-world ML projects focusing on data quality, classification accuracy, and model robustness — built using Cleanlab, Scikit-learn, and custom preprocessing pipelines.
+This repository contains a collection of machine learning and deep learning projects, each focused on solving real-world problems using data-driven approaches.
 
----
+📂 Project List
 
-## 🔍 Projects Included
+Hyperspectral Imaging (Untitled-1.ipynb)
+Exploring hyperspectral data acquisition and AI-based enhancement techniques. Focus on generating rich spectral data using physical filters and deep learning for image reconstruction.
 
-### 1. **Noisy Label Detection with Cleanlab**
-- **Objective:** Detect and correct mislabeled data to improve model accuracy.
-- **Tech Stack:** Python, Cleanlab, Scikit-learn, Pandas
-- **Highlights:** Reduced label noise by X%; improved test accuracy by Y%.
+Deep Learning Model (deep learning model.ipynb)
+General-purpose deep learning experiments, building and testing architectures for various tasks.
 
-### 2. **Weather Forecasting Model**
-- **Objective:** Predict short-term weather metrics using historical datasets.
-- **Tech Stack:** Python, Regression Models, Matplotlib
-- **Highlights:** Built end-to-end forecasting pipeline from raw CSVs to visualization.
+Fake News Detection (fake news.ipynb)
+Classifying and detecting fake news articles using NLP and machine learning models.
 
-### 3. **Fake News Detection**
-- **Objective:** Classify news articles as real or fake.
-- **Tech Stack:** NLP, Scikit-learn, TF-IDF, Logistic Regression
-- **Highlights:** Achieved Z% precision on real-world headlines dataset.
+Fraud Detection (finding fraud.ipynb)
+Identifying fraudulent transactions with anomaly detection and supervised ML models.
 
-### 4. **ML Model Experiments**
-- **Objective:** Sandbox for testing various ML models.
-- **Use Case:** Personal learning and hyperparameter tuning experiments.
+Machine Learning Model (ml model.ipynb)
+Baseline ML models applied on different datasets for experimentation and benchmarking.
 
----
+Noisy Dataset Handling (noisy dataset.ipynb)
+Techniques for working with noisy/unclean datasets, including denoising and robust model training.
 
-## 🛠 Setup Instructions
+Weather Prediction (wether report-san.ipynb)
+Building predictive models to forecast weather conditions based on historical data.
 
-```bash
-# Clone the repo
-git clone https://github.com/LIGHTRTX/your-repo-name.git
-cd your-repo-name
+🚀 Tech Stack
 
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate
+Python
 
-# Install required libraries
-pip install -r requirements.txt
+Jupyter Notebooks
+
+Scikit-learn, NumPy, Pandas, Matplotlib
+
+TensorFlow / PyTorch (for deep learning experiments)
