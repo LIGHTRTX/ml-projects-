@@ -1,9 +1,9 @@
-## Machine Learning and AI Projects
+### Machine Learning and AI Projects
 
 This repository contains multiple applied projects across domains such as imaging, NLP, signal processing, finance, and environmental data science. Each project is structured around a clear problem definition, methodology, and implementation in Jupyter notebooks.
 
-Project Descriptions
-1. Hyperspectral Image Approximation
+## Project Descriptions
+# 1. Hyperspectral Image Approximation
 
 Objective: Approximate hyperspectral image data from RGB images to make spectral analysis accessible without specialized sensors.
 Methods:
@@ -15,7 +15,7 @@ Dimensionality reduction with PCA.
 Evaluation metrics: PSNR, SSIM, Spectral Angle Mapper (SAM).
 Applications: Remote sensing, agriculture monitoring, medical imaging.
 
-2. Text Classification and Regional NLP Analysis
+# 2. Text Classification and Regional NLP Analysis
 
 Objective: Perform classification on multilingual or regional text datasets, including code-mixed text.
 Methods:
@@ -27,7 +27,7 @@ Baseline models: Logistic Regression, Random Forest.
 Advanced models: BERT, IndicBERT, XLM-R.
 Applications: Sentiment analysis, intent detection, social media monitoring.
 
-3. EEG Analysis
+# 3. EEG Analysis
 
 Objective: Analyze EEG signals for cognitive state detection and neurological insights.
 Methods:
@@ -39,7 +39,7 @@ Power spectral density and band analysis (Delta, Theta, Alpha, Beta).
 Event-Related Potentials (ERP).
 Applications: Brain-computer interfaces, fatigue detection, medical diagnostics.
 
-4. Fake News Detection
+# 4. Fake News Detection
 
 Objective: Build models to classify news articles as real or fake.
 Methods:
@@ -51,7 +51,7 @@ Models: Logistic Regression, Random Forest, LSTM, Transformer-based classifiers.
 Evaluation using accuracy, precision, recall, and F1-score.
 Applications: Automated misinformation detection in media systems.
 
-5. Financial Fraud Detection
+# 5. Financial Fraud Detection
 
 Objective: Detect fraudulent transactions in large-scale financial datasets.
 Methods:
@@ -63,7 +63,7 @@ Models: Isolation Forest, One-Class SVM, Gradient Boosting, XGBoost.
 Feature selection and anomaly detection.
 Applications: Fraud prevention in banking, insurance, and e-commerce.
 
-6. Binary Classification of Alpha vs Hydron Particles
+# 6. Binary Classification of Alpha vs Hydron Particles
 
 Objective: Differentiate between alpha particles and hydron particles using machine learning.
 Methods:
@@ -75,7 +75,7 @@ Models: SVM, Random Forest, Neural Networks.
 Performance measured using ROC-AUC and precision-recall.
 Applications: Particle detection and classification in physics experiments.
 
-7. Noisy Dataset Handling with Cleanlab and NumPy
+# 7. Noisy Dataset Handling with Cleanlab and NumPy
 
 Objective: Train robust ML models in the presence of noisy or mislabeled data.
 Methods:
@@ -87,7 +87,7 @@ NumPy pipelines for dataset preprocessing.
 Comparative analysis: baseline models vs cleaned data.
 Applications: Real-world datasets where human labeling errors are common.
 
-8. Water Pollution Analysis
+# 8. Water Pollution Analysis
 
 Objective: Analyze water quality datasets to assess pollution levels.
 Methods:
@@ -99,7 +99,7 @@ Classification and clustering models for water quality categories.
 Data visualization with heatmaps and time-series plots.
 Applications: Environmental monitoring, urban planning, and public health.
 
-9. Weather Prediction for Chennai
+# 9. Weather Prediction for Chennai
 
 Objective: Build forecasting models for weather prediction in Chennai.
 Methods:
