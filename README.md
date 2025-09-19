@@ -111,7 +111,7 @@ Feature engineering from temperature, humidity, and rainfall data.
 Evaluation using RMSE and MAE.
 Applications: Agriculture, disaster preparedness, and smart city systems.
 
-Skills Demonstrated
+## Skills Demonstrated
 
 Image super-resolution and approximation
 
